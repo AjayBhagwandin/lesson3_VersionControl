@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(6 ,1, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Ajay Bhagwandin)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(THis assignment was about learning how to use GIT and knowing how to create backups and keeping your files save incase of any mishaps.)
+
+## View Project:
+https://ajaybhagwandin.github.io/lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned what GIT and got an idea of how to create backups for my files and securing it.)
+2. (I linked my  GIT account onto my cloud9 account.)
+3. (I learned what an SSH key was and how to impliment it.)
 
